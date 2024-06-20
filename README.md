@@ -1,6 +1,6 @@
 # Sales Analyzer
 
-Sales Analyzer is a comprehensive web application developed to provide insights into product sales transactions. It leverages the MERN Stack (MongoDB, Express.js, React, Node.js) to deliver robust and user-friendly functionality for analyzing sales data. This application is designed to help businesses make informed decisions by offering detailed statistics, searchable transaction records, and visual data representations.
+Sales Analyzer is a comprehensive web application that provides insights into product sales transactions. It leverages the MERN Stack (MongoDB, Express.js, React, Node.js) to deliver robust and user-friendly functionality for analyzing sales data. This application is designed to help businesses make informed decisions by offering detailed statistics, searchable transaction records, and visual data representations.
 
 ## Features
 
@@ -69,7 +69,7 @@ Sales Analyzer is a comprehensive web application developed to provide insights 
 
 Fetch and initialize the database with seed data from a third-party API.
 
-- **Endpoint**: `GET /api/init`
+- **Endpoint**: `GET /api/v1`
 
 ### Get Transactions
 
@@ -124,8 +124,8 @@ Generate
 - **Express.js**: Web application framework for Node.js.
 - **React**: JavaScript library for building user interfaces.
 - **Node.js**: JavaScript runtime for server-side programming.
-- **APEXCHARTS**: React package for give a chart component.
-- **NextUI**: NextUi package for give a frontend component.
+- **APEXCHARTS**: React package for giving a chart component.
+- **NextUI**: NextUi package for giving a frontend component.
 
 
 ## License
@@ -134,4 +134,4 @@ This project is licensed under the MIT License.
 
 ---
 
-For further information or assistance, please contact the developer at [vikashjjp728@gmail.com].
+For further information or assistance, please get in touch with the developer at [vikashjjp728@gmail.com].
